@@ -1,6 +1,7 @@
 # counter-app
 
-hosted link: https://tosin-vue-counter.netlify.app/
+The application consists of a single page with a counter component that displays a count value, increment, decrement, reset, and setValue buttons. 
+Hosted link: https://tosin-vue-counter.netlify.app/
 
 This template should help get you started developing with Vue 3 in Vite.
 
